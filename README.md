@@ -56,7 +56,7 @@ if __name__ == "__main__":
 4. **发起 Pull Request**：在 GitHub 上发起一个 Pull Request，将你的分支合并到主项目中。
 
 ### 许可证
-本项目采用 MIT 许可证。
+本项目采用 Apache-2.0 许可证
 
 ### 注意事项
 - 导出 Excel 文件时，确保代码和 Excel 文件在同一个文件夹内。
