@@ -1,5 +1,13 @@
 # Time Recorder
 
+![image](https://github.com/user-attachments/assets/b0280fa1-f8e3-45c4-87e8-ecd0fa84cd5a)
+![image](https://github.com/user-attachments/assets/82c4467b-0ba9-4b70-99aa-e0907f2c2fd8)
+
+![image](https://github.com/user-attachments/assets/eb3ab2b5-3664-4558-b7b1-da8ee9845e28)
+![image](https://github.com/user-attachments/assets/ef787152-e106-4799-a254-2a0faa58e8cd)
+![image](https://github.com/user-attachments/assets/bb05b06a-c73f-4266-987a-c2bbe3c781d2)
+
+
 ### 项目名称
 多功能计时与任务管理软件
 
