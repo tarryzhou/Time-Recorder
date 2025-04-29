@@ -31,38 +31,6 @@
 - **编程语言**：Python
 - **主要框架**：`tkinter`（Python 内置的 GUI 库）、`openpyxl`（用于处理 Excel 文件）、`pandas`（用于数据处理）、`matplotlib`（用于数据可视化）
 
-### 安装和运行步骤
-#### 安装依赖
-确保你已经安装了 Python 环境，然后使用以下命令安装所需的库：
-```bash
-pip install openpyxl pandas matplotlib
-```
-
-#### 运行代码
-将代码保存为一个 Python 文件（例如 `timer_app.py`），然后在终端中运行以下命令：
-```bash
-python timer_app.py
-```
-
-### 代码示例
-以下是一个简单的使用示例，展示如何启动应用程序：
-```python
-if __name__ == "__main__":
-    import tkinter as tk
-    root = tk.Tk()
-    root.geometry('800x200+600+300')
-    from your_module import TimerApp  # 替换为实际的模块名
-    app = TimerApp(root)
-    root.mainloop()
-```
-
-### 贡献指南
-如果你想为这个项目做出贡献，可以按照以下步骤进行：
-1. **Fork 项目**：在 GitHub 上 Fork 这个项目到你的仓库。
-2. **创建分支**：在你的仓库中创建一个新的分支，用于开发新功能或修复问题。
-3. **提交代码**：在分支上进行开发，并提交代码到你的仓库。
-4. **发起 Pull Request**：在 GitHub 上发起一个 Pull Request，将你的分支合并到主项目中。
-
 ### 许可证
 本项目采用 Apache-2.0 许可证
 
